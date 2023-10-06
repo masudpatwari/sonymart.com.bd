@@ -1,0 +1,51 @@
+
+---Downloaded files---
+The import files for: Business I were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://squadirgroup.com
+Data file = /home/joltong/web/squadirgroup.com/public_html/wp-content/uploads/2022/01/althea-wp-ocdi/demo-content-import-file_2022-01-16__07-11-12.xml
+Widget file = /home/joltong/web/squadirgroup.com/public_html/wp-content/uploads/2022/01/althea-wp-ocdi/demo-widgets-import-file_2022-01-16__07-11-12.json
+Customizer file = /home/joltong/web/squadirgroup.com/public_html/wp-content/uploads/2022/01/althea-wp-ocdi/demo-customizer-import-file_2022-01-16__07-11-12.dat
+Redux files:
+not defined!
+
+---extendthemes-ocdi/before_content_import---
+
+
+--- Colibri Importer ---
+[INFO] - Installed Plugin: contact-form-7/wp-contact-form-7.php
+
+--- Colibri Importer ---
+[INFO] - Plugins instalantion requests new ajax call
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog sidebar widget area : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+newsletter_subscriber_widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Imported to Inactive
+Recent Posts - No Title - Imported to Inactive
+Recent Comments - No Title - Imported to Inactive
+Archives - No Title - Imported to Inactive
+Categories - No Title - Imported to Inactive
+Meta - No Title - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---extendthemes-ocdi/after_import---
+

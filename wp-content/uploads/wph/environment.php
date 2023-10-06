@@ -1,0 +1,2 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+$environment_variable = '{"theme":{"folder_name":"ninja","mapped_name":"phampevo"},"child_theme":{"folder_name":"newshop-ecommerce","mapped_name":"oodsiwha"},"allowed_paths":["\/home\/sonymart.com.bd\/public_html\/wp-content\/themes"],"cache_path":"\/home\/sonymart.com.bd\/public_html\/wp-content\/cache\/wph\/","wordpress_directory":"","site_relative_path":"\/"}'; ?>
